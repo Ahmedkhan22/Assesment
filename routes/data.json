@@ -1,0 +1,79 @@
+{
+    "data":[{
+        "text":"The company has a fully detailed and documented view of the total potential for IoT, and a vision of how IoT will impact their own industry and company, together with a range of alternative identified market development scenarios.",
+        "strand": "Market context"
+    },
+    {
+        "text":"Our vision is set, owned and funded. We know how to engage with partners and we know what our competitors are doing in the IoT space.",
+        "strand": "Strategic context"
+    },
+    {
+        "text":"We have a well developed perspective on IoT best practices and how to rethink and reengineer business models.",
+        "strand": "IoT Foundations"
+    },
+    {
+        "text":"The business solution life cycle is fully integrated into the strategic business planning process, including a feedback loop from project delivery into the business strategy function",
+        "strand": "Interface to Business Strategy"
+    },
+    {
+        "text":"The IIoT solution design is based on industry best practices and is constantly optimized based on lessons learned from project implementations",
+        "strand": "Solution design"
+    },
+    {
+        "text":"The project teams have all the capabilities needed for successful project delivery and the HR function constantly evaluates necessary skill uplifts for internal resources, while vendor management works with partners to ensure they are aware of the long-term skill set requirements of the organization",
+        "strand": "Project team structuring"
+    },
+    {
+        "text":"The project management is fully  alligned with other projects and all relevant BAU functions to enable the project to be delivered in scope, time, budget and quality required",
+        "strand": "Project Management"
+    },
+    {
+        "text":"The IIoT solution in operation is constantly monitored against the defined performance requirements and the benefits are tracked against the business case.",
+        "strand": "In service monitoring and feedback"
+    },
+    {
+        "text":"Data ownership, privacy, sovereignty and governanance are all subject to well-defined policies that are consistent across the business. The company has a good understanding of current (and future) laws and regulations in all markets in which it operates.",
+        "strand": "Data policy"
+    },
+    {
+        "text":"locations, together with associated SLAs and trustworthiness metrics. The company understands the limitations of avaialble data, and how the systems landscape can be changed to support new IoT applications.",
+        "strand": "Data location transparency"
+    },
+    {
+        "text":"The company maintains a list of approved technologies and techology providers. How these technologies work together is well understood and the day-to-day performance levels of IoT technology are monitored and tested against prescribed standards.",
+        "strand": "Technology strategy"
+    },
+    {
+        "text":"The company has a comprehensive understanding of the relevant standards in the market and is well engaged with relevant standards bodies. Legacy deployments are actively managed towards the current environment.",
+        "strand": "Reference Architectures and standards"
+    },
+    {
+        "text":"The company operates a platform-of-platforms strategy, drawing in contributions from partners with differentiated strand in line with a clearly defined and well managed platforms strategy.",
+        "strand": "Platforms Stack"
+    },
+    {
+        "text":"Risk and compliance management is applied consistently across the enterprise and based on a risk management strategy which is aligned with the strategic objectives of the organization",
+        "strand": "Risk & Compliance Management"
+    },
+    {
+        "text":"All physical assets are identfied, secured, have owners and a defined change management process.  An asset management strategy is in place.",
+        "strand": "Asset Management"
+    },
+    {
+        "text":"The organization has a sophisticated identity and accesss management, based on industry best practices and driven by the requirements of the defined security requirements for resources.",
+        "strand": "Identity and Access Management"
+    },
+    {
+        "text":"The threats and vulnerabilities for the organization are well understood and preventative measures as well as incident handling processes are in place.",
+        "strand": "Threat and Vulnerability Management"
+    },
+    {
+        "text":"The workforce is aware and trained to deal with all envisioned security risks and incidents",
+        "strand": "Security Information Sharing"
+    },
+    {
+        "text":"The whole value network of the organization is actively engaged in preventing and mitigating security risks, as well as in handling security incidents. ",
+        "strand": "Supply Chain Management"
+    }
+    ]
+}

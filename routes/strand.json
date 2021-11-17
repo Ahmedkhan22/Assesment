@@ -1,0 +1,820 @@
+{
+    "Sheet1": [
+        {
+            "Dimension": "Business Strategy",
+            "Strand": "Market context",
+            "Capability": "Identifying the potential",
+            "L1": "Few within the company are aware of IoT - what it is, and what can be done with it.",
+            "L2": "The leadership team is beginning to coalesce around the concept of IoT. Key stakeholders are emerging, and the management team is beginning to define a strategy.",
+            "L3": "The management team has put in place a plan for identifying IoT market potential, and the necessary work is ongoing.",
+            "L4": "The company has a fully detailed and documented view of the total potential for IoT, and a vision of how IoT will impact their own industry and company.",
+            "L5": "The company has a fully detailed and documented view of the total potential for IoT, and a vision of how IoT will impact their own industry and company, together with a range of market development scenarios."
+        },
+        {
+            "Dimension": "Business Strategy",
+            "Strand": "Strategic context",
+            "Capability": "Setting the vision for the company",
+            "L1": "It is unclear how the company wants to use IoT to further its' business. The leadership team is broadly unaware of the concept of IoT.",
+            "L2": "The leadership team has an emerging understanding of the impact that IoT will have on their business, and is working to set a more concrete vision.",
+            "L3": "Strategic vision for the company is set, key managers are actively engaged in a coordinated way.",
+            "L4": "Strategic vision for the company is set, key managers are actively engaged in a coordinated way. The organisation is open and receptive to new ideas, and refinement of existing ideas.",
+            "L5": "Strategic vision for the company is set, key managers are actively engaged in a coordinated way. There are regular sessions to update and refine the overall vision, sponsored by senior management."
+        },
+        {
+            "Dimension": "Business Strategy",
+            "Capability": "Ownership",
+            "L1": "The topic of IoT has barely figured on the leadership team's agenda to date.",
+            "L2": "A limited number of key individuals have stepped forwards to push forwards the concept of IoT within the organisation.",
+            "L3": "Ownership for the IoT-enabled transformation of the overall enterprise is clearly defined.",
+            "L4": "Ownership for the IoT-enabled transformation of the overall enterprise is clearly defined, and is the responsibility of a strong and well respected group within the organisation.",
+            "L5": "Ownership for IoT-enabled transformation of the overall enterprise is clearly defined, and such responsibility does not lie with any of the traditional CxO roles (CEO, CTO, CMO, CFO, COO, CIO, etc)."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Budget allocation",
+            "L1": "No budget has been allocated for IoT-enabled transformation.",
+            "L2": "No specific budget has been allocated for IoT-enabled transformation.",
+            "L3": "The management team has recognised that IoT-enabled transformation requires a specific budget, and is managing the situation on a day-to-day basis.",
+            "L4": "A budget has been allocated for IoT-enabled transformation.",
+            "L5": "A budget has been allocated for IoT-enabled transformation, and that budget (and budget priorities) are reviewed on a regular basis."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Partnership approaches",
+            "L1": "Little consideration has been given as to how best to engage with partners as part of any potential IoT transformation.",
+            "L2": "The company is engaged in partnership discussions with a range of different parties, but on an opportunity-by-opportunity basis and not within the context of a definde framework.",
+            "L3": "The company has an emerging portfolio of preferred partners for deployment of IoT solutions, and relationships with these partners are clear and well-managed.",
+            "L4": "Approach to partnerships is well defined, and the company is clear which elements of its' business to focus on in the IoT environment, and which elements of different product and service value networks. The organisation has an emerging understanding of when, where and why partners should be used, and the identifying characteristics of those partners.",
+            "L5": "Approach to partnerships is well defined, and the company is clear which elements of its' business to focus on in the IoT environment, and which elements of different product and service value networks. The organisation has a clear framework-based understanding of when, where and why partners should be used, the identifying characteristics of those partners, and a vision of the ecosystem that they want to build."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "IoT competitive analyses",
+            "L1": "Little attention has been paid to any competitior activity with regards to IoT.",
+            "L2": "The company tracks the adoption of IoT technologies by competitors in its' markets.",
+            "L3": "The company tracks the adoption of IoT technologies by competitors in its' markets and actively seeks to identify and pursue identified potential best practices.",
+            "L4": "The company tracks the adoption of IoT technologies by competitors in its' markets and actively seeks to identify and pursue identified potential best practices. Attention is also paid to emerging best-practices in adjacent or otherwise comparable industries.",
+            "L5": "The company tracks the adoption of IoT technologies by competitors in its' markets and also comparable players in different industries, and actively seeks to identify and pursue potential best practices from wherever they might be sourced."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Targets and timelines",
+            "L1": "No targets or timelines have been set, the topic of IoT does not figure significantly on the senior management agenda.",
+            "L2": "Discussions around targets and timelines are only just beginning.",
+            "L3": "Agreed targets and timelines are emerging within the context of senior management and project team discussions.",
+            "L4": "SMART (Specific, Measurable, Attainable, Result focussed and Time oriented) targets and timelines have been set by senior management.",
+            "L5": "SMART (Specific, Measurable, Attainable, Result focussed and Time oriented) targets and timelines have been defined by senior management and are well known within the wider organisation."
+        },
+        {
+            "Dimension": "Business Strategy",
+            "Strand": "Business model innovation and refinement",
+            "Capability": "Business model ideation",
+            "L1": "A few interesting IoT ideas have been identified, but these are not logged and managed in any rigourous way.",
+            "L2": "The company has actively set out to identify possible new IoT business model opportunities, using a combination of techniques such as workshops and brainstorming sessions.",
+            "L3": "The company pursues 'open' ideation to capture ideas for transforming business models and conceiving new products and services. Documentation and reference cases are available to support workshops and interviews with key experts.",
+            "L4": "The company pursues 'open' ideation to capture ideas for transforming business models and conceiving new products and services. Documentation and reference cases are available to support workshops and interviews with key experts. Feedback from in-flight and deployed IoT solutions is sought and acted upon.",
+            "L5": "Formalised and tried and tested ideation processes that address the need for 'open' ideation to capture ideas for transforming business models and conceiving new products and services. Extensive documentation and reference cases are available to support workshops, focus groups and interviews with key experts. Feedback from in-flight and deployed IoT solutions is sought and acted upon."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Businesss reengineering ideation",
+            "L1": "A few interesting IoT ideas have been identified, but these are not logged and managed in any rigourous way.",
+            "L2": "The company has actively set out to identify possible new IoT business reengineering opportunities, using a combination of techniques such as workshops and brainstorming sessions.",
+            "L3": "The company pursues process-centric ideation to optimize current business practices. Documentation and reference cases are available to support workshops and interviews with key experts.",
+            "L4": "The company pursues process-centric ideation to optimize current business practices . Documentation and reference cases are available to support workshops and interviews with key experts. Feedback from in-flight and deployed IoT solutions is sought and acted upon.",
+            "L5": "Formalised and tried and tested ideation processes that address the need for process-centric ideation to optimize current business practices. Extensive documentation and reference cases are available to support workshops, focus groups and interviews with key experts. Feedback from in-flight and deployed IoT solutions is sought and acted upon."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Preparation",
+            "L1": "IoT ideas generally progress directly to a business case phase, if they appear to have sufficient potential.",
+            "L2": "Processes and tools exist to help sharpen the description of any IoT value propositon.",
+            "L3": "Established processes and tools exist to help sharpen the description of any IoT value propositon, including definition of the value network and identification of stakeholder benefits.",
+            "L4": "Established processes and tools exist to help sharpen the description of any IoT value propositon, including definition of the value network and identification of stakeholder benefits. The company seeks to validate assumptions and identify required capabilities.",
+            "L5": "Established processes and tools exist to help sharpen the description of any IoT value propositon, including definition of the value network and identification of stakeholder benefits. There are detailed and formalised processes for validating assumptions and identifying required capabilities."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Evaluation",
+            "L1": "Business cases are focussed on direct revenues and costs only. No set standards or approaches for IoT business cases exist.",
+            "L2": "Detailed business case approaches are documented and adopted for all IoT projects. Business cases are prepared in a way that is reasonably consistent across all IoT opportunities.",
+            "L3": "Detailed business case approaches are documented and adopted for all IoT projects. The company is developing protocols for dealing with shared infrastructure costs as part of an overall business case process, and also for analysing the total ('opportunity') business case.",
+            "L4": "Detailed business case approaches are documented and adopted for all IoT projects. The company has clear protocols for dealing with shared infrastructure costs as part of an overall business case process, and also for analysing the total ('opportunity') business case.",
+            "L5": "Detailed business case approaches are documented and adopted for all IoT projects. The company has clear protocols for dealing with shared infrastructure costs as part of an overall business case process, and also for analysing the total ('opportunity') business case. Detailed impact and risk analyses are undertaken to support the project through subsequent stages of initiation and implementation (and revision, where necessary)."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Initiation",
+            "L1": "The company has yet to attempt deployment of an IoT solution.",
+            "L2": "Partners and other resources to assist with IoT solution delivery are sought out on a mostly ad hoc basis.",
+            "L3": "The company is developing frameworks to assist with the transition from a buiness case phase to an implementation phase.",
+            "L4": "The company has clear views of which elements of IoT projects will be delivered internally, and which elements it will look to partners to deliver.",
+            "L5": "The company has clear views of which elements of IoT projects will be delivered internally, and which elements it will look to partners to deliver. There is a defined acquisition strategy, and innovative organisational techniques such as 'podular' structures have been considered and are deployed where relevant."
+        },
+        {
+            "Dimension": "Business Strategy",
+            "Strand": "IoT Foundations",
+            "Capability": "Identifying and applying IoT Best Practices",
+            "L1": "IoT best practices are not tracked in any formal way.",
+            "L2": "The company is beginning to establish an IoT centre of excellence.",
+            "L3": "An internal centre of excellence has been established, but is not necessarily fully engaged in the case of all in-flight IoT solution projects.",
+            "L4": "Internal centre of excellence provides support and guidance to the wider organisation, and is a repository for shared learnings.",
+            "L5": "Internal centre of excellence provides support and guidance to the wider organisation, and is a repository for shared learnings. It also defines and tracks metrics."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Enabling Change Management",
+            "L1": "There is little realisation within the business that the adoption of IoT technologies will herald significant organisational change.",
+            "L2": "The leadership team has realised that the adoption of IoT technologies can herald significant organisational change, but has yet to put in place resources to assist the organisation through this period of change.",
+            "L3": "The organisation is in the process of establishing an IoT-focussed change management function.",
+            "L4": "A human resource change management function exists, supported by external experts who are experienced in the changes that IoT can bring.",
+            "L5": "A human resource change management function exists, and includes people who are familiar with the changes that IoT can bring."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Re-Thinking & Re-Engineering Business Models",
+            "L1": "No officially coordinated approach to monitoring developments in IoT in the wider market.",
+            "L2": "Approach to rethinking and reengineering business models is predominantly project based.",
+            "L3": "Approach to rethinking and reengineering business models is trasnitioning from a project based approach to an approach more characterised by ongoing monitoring undertaken within a defined functional area.  Information is used as an 'input' to ideation processes described above.",
+            "L4": "A defined group of individuals within the organisation are tasked with monitoring the market for developments that could herald the emergence of new business models, and also extracting equivalent information from within the organisation and from various market experts and commentators. Information is used as an 'input' to ideation processes described above.",
+            "L5": "Key staff within the organisation are tasked with monitoring the market for developments that could herald the emergence of new business models, and also extracting equivalent information from within the organisation and from various market experts and commentators. Information is used as an 'input' to ideation processes described above."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "IoT road map",
+            "L1": "Little consideration has been given to how the company might go about adopting IoT solutions.",
+            "L2": "Consideration of the IoT maturity of a company is mostly dealt with on a reactive and needs-based approach, with capability deficiencies highlighted by in-flight IoT projects.",
+            "L3": "The company has begin to analyse capability shortfalls across the preceived spread of capabilities relevant to supporting an IoT-focussed business.",
+            "L4": "The company has adopted this maturity model (or something of equivalent scope and granularity), and uses the maturity model to inform next development steps and overall road map in the IoT space.",
+            "L5": "The company has an internal and customised version of this maturity model (or something of equivalent scope and granularity). The maturity model is used to define next investment steps and overall road map within the IoT space."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "Human resouce vision for IoT",
+            "L1": "Little/ no consideration has been given of the impact that IoT will have on individual employees or human resource within a company.",
+            "L2": "The company is developing a vision for the impact that IoT will have on the organisation, and roles within the organisation.",
+            "L3": "An agreed vision exists for the impact that IoT will have on the organization and roles within the organization.",
+            "L4": "An agreed vision exists for the impact that IoT will have on the organization and roles within the organization, including new learning paths and career trajectories.",
+            "L5": "An agreed vision exists for the impact that IoT will have on the organization and roles within the organization, including new learning paths and career trajectories. New hires are used to bring new skills where required."
+        },
+        {
+            "Dimension": "Business Strategy",
+            
+            "Capability": "IoT Governanace",
+            "L1": "Little consideration has been given to how corporate governance in an IoT world might differ from more established corporate governance approaches.",
+            "L2": "The company is developing a framework for IoT governance exists, including metrics and targets and measurement techniques",
+            "L3": "A comprehensive framework for IoT governance exists, including metrics and targets and measurement techniques.",
+            "L4": "A comprehensive framework for IoT governance exists, including metrics and targets and measurement techniques, and is integrated into an overall corporate 'Compliance, Risk and Governance' function. Targets are used to ensure that the entire business pulls together.",
+            "L5": "A wide ranging and comprehensive framework for IoT governance exists, including metrics and targets and measurement techniques, and is integrated into an overall corporate 'Compliance, Risk and Governance' function. Targets are used to ensure that the entire business pulls together. Internal frameworks are readily extensible to value networks."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            "Strand": "Interface to Business Strategy",
+            "Capability": "Strategy Execution",
+            "L1": "There is no defined and managed connection between the business strategy and implementation of an IIoT solution",
+            "L2": "An approach to link business strategy to project portfolio planning and project execution is defined and is used in certain parts of the enterprise.",
+            "L3": "The methodology to link business strategy to the business solution life cycle is managed consistently across the business.",
+            "L4": "The IIoT project and solution objectives are linked to strategic goals and continuously measured. A enterprise wide scorecard, accessible to all employees create transparency around process compliance.",
+            "L5": "Project teams use a robust and proven methodology to support project transition from Business Planning to Implementation phases. The scope includes all parameters that are relevent to overall business solution lifecycle."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Strategy Update",
+            "L1": "IIoT projects and solution operations do not not provide feedback and lessons learned into the strategic business planning process. ",
+            "L2": "IIoT projects  share their lessons learned with the business strategy function, as part of their project closure activities.",
+            "L3": "IIoT solutions operations has a defined approach to communicate feedback to the business strategy function and this process is actively managed.",
+            "L4": "The sharing of feedback and lessions learned from projects and IIoT solutions operations to business planning is captured and a KPI exist to measure target vs. planned compliance. ",
+            "L5": "Tried and tested mechanisms exist for dealing with any unforeseen or exceptional problems that arise during the solution deployment, and that impact solution functionality or overall lifecycle. Business cases and supporting project analyses can be easily re-worked to support analysis of the revised status quo, and optimise solution deployment given any new constraints."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            "Strand": "Solution design",
+            "Capability": "Analysis, projections and planning",
+            "L1": "IIoT solutions are build without a clear understanding of volumes it needs to handle (users, data, transactions, etc.)",
+            "L2": "Volume requirements are stated as non-functional requirements during the IIoT solution analysis as guidance for the design. Testing of volume handling is performed based on the expected volumes at the time of the solution going live.",
+            "L3": "The volume requirements include a prediction of volumes over a 3-5 years period and the solution design includes future changes due to an increasing volume and puts them on a roadmap.",
+            "L4": "During operations of the IIoT solution the volumes are constantely monitored and compared to the volume requirements. Predictions are made based on this data when a system upgrade is necessary to handle the increased volume.",
+            "L5": "Forecasts for all relevant IIoT project solution volumes exist, and are widely accepted within the business. Various deployment and uptake scenarios have been analysed, and resulting volumes ranges are a key parameters in downstream IIoT project deployments. Scenario analyses are used as a basis for contracting with any partners, and also to inform contract-risk mitigation initiatives."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Functional Design",
+            "L1": "Every project has its own approach and tools to document the functional design of an IIoT solution.",
+            "L2": "Functional Design deliverables are defined, as well as the process to create them and the contributing roles with their responsibilities. All projects work consistently, based on the defined functional design standards.",
+            "L3": "The Functional Design deliverables are reviewed by subject matter experts outside the core project delivery team, e.g. by the IIoT CoE",
+            "L4": "The quality of  the Functional Design is measured, specifically the deliverables and processes compliance.",
+            "L5": "The company has extensive experience in developing and testing funcitonal design, including with user test groups. Results of the functional design testing are fed back to other Solution Design teams, and Business Planners where relevant. The company has tried and tested frameworks to support the definition of 'optimal' solutions in terms of profitability and the wider business context."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Technical Design",
+            "L1": "Every project has its own approach and tools to document the technical design of an IIoT solution.",
+            "L2": "Technical Design deliverables are defined, as well as the process to create them and the contributing roles with their responsibilities. All projects work consistently, based on the defined technical design standards.",
+            "L3": "The Technical Design deliverables are reviewed by subject matter experts outside the core project delivery team, e.g. by the IIoT CoE",
+            "L4": "The quality of  the Technical Design is measured, specifically the deliverables and processes compliance.",
+            "L5": "Technical Design is undertaken with reference to a defined reference architecture and the company has tried and tested techniques to inform the specification of the required sensing and digitising of real world events. The organisation has tried and tested techniques for analysing and comparing alternative deployment architectures and digital models, in terms of potential impact to service levels, useability, downstream data availability and solution flexibility."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            "Strand": "Project team structuring",
+            "Capability": "Matching the team to the solution",
+            "L1": "The project team members are selected based on availabilty and/or cost considerations.",
+            "L2": "Project team members are selected based on their qualification for the role in the project they are assigned to. If internal people with a specific skill set are not avaliable, other resources are assigned to the project, based on availability.",
+            "L3": "If for a specific project role, that needs to be performed by an internal resource, no internal subject matter expert is available, external resources are used to fill the capability/capacity gap.",
+            "L4": "Every project role has a documented skill profile that is matched agains the skill profile of internal and external resources. Project manager and sponsor can allow a match < 100%, but match must be at least 80%",
+            "L5": "Team members are matched to the specific solution deployment scenario of specific projects, and in context of wider organisational demands on specialist resources and the need to grow and optimise specific capabilities over time. The company operates an IIoT project deployment talent pool, and members are cycled through different areas of the business to gain downstream and hands on experience."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Cross-cutting concerns",
+            "L1": "Project activities that are relevant for different workstreams and/or project phases are duplicated and not aligned with each other.",
+            "L2": "Project actitivites that are relevant for multiple worksteams and/or project phases are combined into one workstream that is a project-internal shared service to other workstreams in one of multiple project phases.",
+            "L3": "A standard project template exists that addresses team setup included cross-cutting concerns that is used across the enterprise",
+            "L4": "The ideal vs. actual team setup is captured, based on the differences in skills for all project roles. This information is used by HR and vendor management to ensure needed capabilities are build up.",
+            "L5": "Specific attention is paid to tasks that have dependencies right across subsequent project workstreams, including security, asset lifecycle management, solution integration, and testing. Project teams are structured so that there is an easy route for cross-cutting issues to be considered within different workstreams, and in a consistent way across all workstreams and in a consistent way across projects."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Asset integration",
+            "L1": "Connectivity and other IoT capabilities are added to exidting products and services mostly as an afterthought.",
+            "L2": "Asset integration is considered in early-stage asset and hardware design stages.",
+            "L3": "Asset integration is considered at the outset of defining new connected products and services.",
+            "L4": "Asset integration considers the entire lifecycle of the asset and the solution, including analysis, design, asset manufacturing, solution implementation, support, and operation.",
+            "L5": "Asset integration considers the entire lifecycle of the asset and the solution, including analysis, design, asset manufacturing, solution implementation, support, operation sunestting and glide path to a defined operating envionent."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            "Strand": "Project Management",
+            "Capability": "Integration management",
+            "L1": "Integration into other systems is handled on a case by case basis within the project.",
+            "L2": "Integration standards between systems are defined on an enterprise level.",
+            "L3": "The Enterprise Architecture function provides an easy way to identify existing functionality and interfaces in the enterprise and ensure the new systems created by the project find their way into the Enterprise Architecture repository'",
+            "L4": "Diviations from the integration standards are documented and need to be approaved by an enterprise wide architecture board.",
+            "L5": "All enterprise and IIoT solutions are well documented in a way that allows for easy integration of new IIoT solutions into the overall (documented) systems environment."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Scope management",
+            "L1": "Each project documents it scope different and has its own approach to deal with change requests",
+            "L2": "A standards for scope description and the change request process exist, but it is left to the project manager to use it or not.",
+            "L3": "The defined standards for scope documentation and change request process are mandatory for all projects.",
+            "L4": "Scope changes are tracked and based on CR efforts, a comparision between the initial scope vs the implemented scope can be made. Significant difference that are systematic in the project portfolio trigger an assessment of the analysis and design processes and practices.",
+            "L5": "The project scope of IIoT projects is closely managed. Variances are accepted where beneficial to the overall business, and are built in to a well managed, optimised and documented release cycle in a way that maximises value for the business. Tried and tested frameworks exist to support the identification, documentation and analysis of any change requests, and also to support the approval of scope change requests at the appropriate level of escalation."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Time, Cost and Quality management",
+            "L1": "The time, cost and quality management of IIoT projects exists, but does not fully take into account the potential complexities of IIoT projects.",
+            "L2": "The time, cost and quality management of IIoT projects is managed on a project-by-project basis.",
+            "L3": "The time, cost and quality management of IIoT projects is well managed on a project-by-project basis.",
+            "L4": "The time, cost and quality management of IIoT projects is closely managed.",
+            "L5": "The time, cost and quality management of IIoT projects is closely managed in a consistent way across the business and multiple IIoT projects."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Business change management",
+            "L1": "There is no link between projects and the corporate HR function, so capability gaps in the enterprise are not identified.",
+            "L2": "As part of the PIR (post implementation review) activities, HR is informed about capability and capacity gaps the project had to deal with.",
+            "L3": "HR is involved into project portfolio planning and can hence see capabilies and skills required for implemention of the business strategy. It can then actively initiate skill building initiatives that are aligned to project start dates.",
+            "L4": "HR works closly with vendor management and procurement to make sure that identified capability and capacity gaps are addressed by finding the right mix between internal and external resources.",
+            "L5": "The organisation is kept well appraised of progress with ongoing IIoT projects, the likely impact that these will have on day-to-day jobs and responsibilities, and the medium-term objectives of the company. Any new emerging training needs are pro-actively identified early on, and appropriate cross-functional training is put in place where necessary."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Business risk management",
+            "L1": "It is up to the individual project to decide if and how they want to handle business risk management.",
+            "L2": "A business risk management approach for all IIoT projects is defined and consistently used in all projects.",
+            "L3": "The enterprise risk management process and project risk management process are integrated and managed by a project risk manager",
+            "L4": "The enterprise risk function does an audit of the project risk management activities.",
+            "L5": "Any business risks to specific projects and the overall project portfolio are pro-actively identiifed and mitigated to the extent possible. A specific business risk management function exists as a cross-cutting function within projects, and across the wider organisation. Business risk management benefits from executive level sponsorship."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Stakeholder management",
+            "L1": "Stakeholders, external to the project, do not have access to project information.",
+            "L2": "Project information is available to all relevant stakeholders in the enterprise, but it is not tailored to the concerns of specific stakeholder groups.",
+            "L3": "Project information is structured based on stakeholder group concerns.",
+            "L4": "Stakeholder specific project information is proactively distributed to stakeholders, once it become available. Stakeholders have an opt-out option.",
+            "L5": "Stakeholders are kept fully appraised of the progression of the company's portfolio of projects, and have the confidence not to feel the need to get directly involved in individual projects."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            "Strand": "In service monitoring and feedback",
+            "Capability": "Operations",
+            "L1": "The operational performance of the IIoT solution is not monitored.",
+            "L2": "The operational performance in monitored and results are shared with the business owner of the solution.",
+            "L3": "The operational performance is benchmarked against the defined project requirements and a systematic diviation triggers a root-cause-analysis driven by the solution owner.",
+            "L4": "A continuous improvement process is defined for an IIoT solution and the solution owner is the reponsible process ownern.",
+            "L5": "The in-service acceptance and user experience of any deployed solution is closely monitored, and suggestions for refinement identified and subjected to business case analysis. Where improvements in the overall solution are identified, then these are actioned. The feedback also extends to testing user experiences of competing and alternative substitute solutions or techniques."
+        },
+        {
+            "Dimension": "Business Solution Lifecycle",
+            
+            "Capability": "Feeback to business model",
+            "L1": "IoT solutions are not revisited post-deployment.",
+            "L2": "Business models associated with any IoT solutions are rarely revisited post-deployment.",
+            "L3": "Business models associated with any IoT solutions are occasionally reviewed and optimised post-deployment.",
+            "L4": "Business models associated with any IoT solutions are regularly reviewed and optimised post-deployment.",
+            "L5": "Business models associated with any IoT solutions are regularly reviewed and optimised post deployment. Where there are options to refine a business model, then these are pursued in a managed and coordinated way."
+        },
+        {
+            
+            "Dimension": "Business Solution Lifecycle",
+            "Capability": "Effective SLAs, OLAs",
+            "L1": "No SLAs and OLAs are defined",
+            "L2": "SLAs are defined with vendors and partners as part of contracts and SLA performance is reviewed on a regular basis by vendor management.",
+            "L3": "OLAs are put in place to ensure also internal services can be measured. Where appropriate SLA and OLA dependencies are documented and communicated.",
+            "L4": "SLAs and OLAs are measured and results published on a score card that is visible to the whole organization. Not meeting SLAs/OLAs triggeres a root cause analysis and the implementation of mitigation measures.",
+            "L5": "The performance of SLAs and OLAs in supporting the effective functioning of any solution is closely monitored. Where opportunities exist to refine the specification of SLAs and SLOs to improve business functionality, then these are pursued within the context of open relationships with suppliers and partners."
+        },
+        {
+            "Dimension": "Data management",
+            "Strand": "Data policy",
+            "Capability": "Data ownership and privacy",
+            "L1": "Little attention has been paid to data ownership and privacy.",
+            "L2": "Data ownership policies are defined as needed and on a project-by-project basis.\r\n\r\nThe company has an adequace understanding of relevent current legislation on data ownership in markets in which it has deployed solutions.",
+            "L3": "Data ownership policies are defined as needed and on a project-by-project basis. Policies include consideration of different anonymisation, aggregation and meta-data analysis techniques and also the sharing of data with any third parties.\r\n\r\nThe company has a good understanding of relevent current legislation on data ownership in all markets in which it operates.",
+            "L4": "Clear policies exist defining data ownership but these are not consistent across the business and in customer contracts. Policies include consideration of different anonymisation, aggregation and meta-data analysis techniques and also the sharing of data with any third parties.\r\n\r\nThe company has a good understanding of relevent current legislation on data ownership in all markets in which it operates.",
+            "L5": "Clear policies exist defining data ownership and are consistent across the business and in customer contracts. Policies include consideration of different anonymisation, aggregation and meta-data analysis techniques and also the sharing of data with any third parties.\r\n\r\nThe company has a good understanding of relevent current (and forthcoming) legislation on data ownership in all markets in which it operates."
+        },
+        {
+            "Dimension": "Data management",
+            
+            "Capability": "Data soverignty",
+            "L1": "Little attention has been paid to data sovereignty.",
+            "L2": "Data sovereignty are defined as needed and on a project-by-project basis.\r\n\r\nThe company has an adequate understanding of relevent current legislation on data sovereignty in markets in which it has deployed solutions.",
+            "L3": "Data sovereignty are defined as needed and on a project-by-project basis.\r\n\r\nThe company has a good understanding of relevent current legislation on data sovereignty in all markets in which it operates.",
+            "L4": "Clear policies exist defining data sovereignty but these are not consistent across the business and in customer contracts.\r\n\r\nThe company has a good understanding of relevent current legislation on data sovereignty in all markets in which it operates.",
+            "L5": "Clear policies exist defining data sovereignty and are consistent across the business and in customer contracts.\r\n\r\nThe company has a good understanding of relevent current (and forthcoming) legislation on data sovereignty in all markets in which it operates."
+        },
+        {
+            "Dimension": "Data management",
+            
+            "Capability": "Data governance",
+            "L1": "The company has not yet received any thrid party requests relating to data policies.",
+            "L2": "Any third party requests relating to data policies and data storage, data retention and data deletion are dealt with on a case-by-case, ad hoc basis.",
+            "L3": "Any third party requests relating to data policies and data storage, data retention and data deletion are dealt with on a case-by-case, ad hoc basis.",
+            "L4": "Defined processes exist for dealing with any third party requests relating to data policies and data storage, data retention and data deletion.",
+            "L5": "Well established processes exist for dealing with any third party requests relating to data policies and data storage, data retention and data deletion."
+        },
+        {
+            "Dimension": "Data management",
+            "Strand": "Data location transparency",
+            "Capability": "System landscape",
+            "L1": "There is no register of data assets.",
+            "L2": "A register of data assets exists, but is only partially complete and generally only contains information relating to recently deployed projects.",
+            "L3": "There is a complete register of data assets, including the data that is available at different network locations.",
+            "L4": "There is a complete register of data assets, including the data that is available at different network locations, together with associated SLAs and trustworthiness metrics.\r\n\r\nAll information is integrated into the company's application enablement platform environment.",
+            "L5": "There is a complete register of data assets, including the data that is available at different network locations, together with associated SLAs and trustworthiness metrics. The register also includes identification of data that could potentially be made available at different network locations given the constraints of currently deployed hardware, together with associated SLAs and trustworthiness metrics.\r\n\r\nAll information is integrated into the company's application enablement platform environment."
+        },
+        {
+            "Dimension": "Data management",
+            
+            "Capability": "Agility and flexibility",
+            "L1": "The company has not considered how the System Landscape (above) could potentially be changed to support new IoT applications.",
+            "L2": "The company has analysed on a case-by-case basis how the System Landscape (above) could potentially be changed to support new IoT applications.",
+            "L3": "The company has an emerging understanding of how the System Landscape (above) can be varied to support new IoT applications.",
+            "L4": "The company understands how the System Landscape (above) can be varied to support new IoT applications, including the existence and maintenance of a register of datasets and  that can potentially be made available at different locations, together with associated trustworthiness levels. The company has strong competence in edge-based computing capabilities, and understands the limitations of what application elements can be supported at different locations.\r\n\r\nAll information is integrated into the company's application enablement platform environment.",
+            "L5": "The company understands how the System Landscape (above) can be varied to support new IoT applications, including the existence and maintenance of a register of datasets and  that can potentially be made available at different locations, together with associated trustworthiness levels. The company has full competence in edge-based computing capabilities, and understands the limitations of what application elements can be supported at different locations and including an assessment of the cost and operational implications of making such adjustments.\r\n\r\nAll information is integrated into the company's application enablement platform environment."
+        },
+        {
+            "Dimension": "Technology",
+            "Strand": "Technology strategy",
+            "Capability": "Monitor and optimise",
+            "L1": "There is no specific IoT technology strategy.",
+            "L2": "IoT deployments are beginning to coalesce around a few key technologies and technology platforms, but not as a result of pro-active management.",
+            "L3": "The company is considering how to define an optimised technology strategy.",
+            "L4": "The technology strategy is defined and optimised.",
+            "L5": "The technology strategy is defined and optimised and monitored and reviewed on an ongoing basis."
+        },
+        {
+            "Dimension": "Technology",
+            
+            "Capability": "Set of approved technologies",
+            "L1": "There is no specific set of approved IoT technologies.",
+            "L2": "The company maintains a list of approved technologies and techology providers.",
+            "L3": "The company maintains a list of approved technologies and techology providers. How these technologies work together is well understood and supported by bench testing in a dedicated research and testing environment.",
+            "L4": "The company maintains a list of approved technologies and techology providers. How these technologies work together is well understood and supported by bench testing in a dedicated research and testing environment. New technology providers are only admitted to the supplier roster once the relevant hardware and software has undergone rigorous interoperability testing and behaviours in concert with already deployed technologies are well understood.",
+            "L5": "The company maintains a list of approved technologies and techology providers. How these technologies work together is well understood and supported by bench testing in a dedicated research and testing environment. New technology providers are only admitted to the supplier roster once the relevant hardware and software has undergone rigorous interoperability testing and behaviours in concert with already deployed technologies are well understood. The set of approved technologies is optimised on an ongoing basis, dropping certain suppliers from new deployments as and when appropriate."
+        },
+        {
+            "Dimension": "Technology",
+            
+            "Capability": "Day to day technology management",
+            "L1": "The day to day performance levels of IoT technology is only investigated as part of problem-resolution and fault-finding investigations.",
+            "L2": "The day to day performance levels of IoT technology is monitored in an ad hoc way.",
+            "L3": "The day to day performance levels of IoT technology are monitored and tested.",
+            "L4": "The day to day performance levels of IoT technology are monitored and tested against prescribed standards.",
+            "L5": "The day to day performance levels of IoT technology are monitored and tested against prescribed standards.The installed base of technology is monitored, with a view to identifying technology types that can be dropped to reduce operational complexity."
+        },
+        {
+            "Dimension": "Technology",
+            "Strand": "Reference Architectures and standards",
+            "Capability": "Awareness of market status",
+            "L1": "The organization does not explore the market of potentially relevant reference architectures and standards",
+            "L2": "Relevant standards and reference architectures are identified and it left to the projects and functions to evaluate how they can be tailored to their specific needs.",
+            "L3": "Relevant standards and reference archtiectures are tailored to the need of the organization and projects are required to consider those for IIoT solution development",
+            "L4": "The appropriate usage of the tailored standards and reference architectures is evaluation as part of project and/or deliverable reviews. The reviewers are Enterprise or Domain Architects that are across the IIoT solutions, but not part of the core delivery team.",
+            "L5": "The company has a comprehensive understanding of the relevant standards in the market and is well engaged with relevant standards (and equivalent) bodies. The company engages with the development of future standards, and seeks to influence these to esure that its' business interests are appropriately catered for."
+        },
+        {
+            "Dimension": "Technology",
+            
+            "Capability": "Management of solution architectures",
+            "L1": "Solution architecture is done inconsistently across the project portfolio, if at all.",
+            "L2": "Solution architecture is defined as a functional capabilities, with role descriptions, defined deliverables and solution architecture design processes",
+            "L3": "Solution architecture is aligned with the Enterprise Architecture and assessed against established architecture standards.",
+            "L4": "Solution architectures go through a enterprise wide architecture review board for approval.",
+            "L5": "Legacy deployments are actively managed towards the current environment so as to optimise cost, risks and compexity."
+        },
+        {
+            "Dimension": "Technology",
+            "Strand": "Platforms Stack",
+            "Capability": "Platforms Strategy",
+            "L1": "No platform strategy exist",
+            "L2": "Evaluation criteria for IoT platforms are defined and given to the project for product evaluations.",
+            "L3": "Platforms are categorised and for each category a prefered vendor is selected as part of Enterprise Architecture activities. Those platforms are stood up as an investment on the enterprise level and provided to projects for IIoT solution development.",
+            "L4": "The existing standard platforms are evaluated by the projects, based on project requirements. If requirements are not fulfilled a enterprise architecture review board, can approve the implemenation of a new platform financed via the project budget, with operational cost be planned in for the annual BAU technology budget.",
+            "L5": "The company operates a platform-of-platforms strategy, drawing in contributions from partners with differentiated capabilities. Standards have been adopted to the extent that these are available. The company has a strong edge computing capability and can deploy platforms components in a flexible and agile way. Platforms capabilites cover the entire solutions stack, from connectivity through to business analytics. The company understands how IoT platforms and more generic mobile enterprise application platforms will merge in the medium term."
+        },
+        {
+            "Dimension": "Technology",
+            
+            "Capability": "Owning and running platforms",
+            "L1": "Ownership and operations of IoT platforms are worked out for each project the uses a platform as part of it end to end solution.",
+            "L2": "Ownership and operational processes for IoT platforms are standardized and provison to the projects on demand.",
+            "L3": "Platform ops function is included in the analysis and design phase of a project, to make sure the platform supports the IIoT solution and if necessary, adequate changes can be made during project delivery.",
+            "L4": "Planned vs. actual usage for the platforms across all IIoT solutions is monitored and fed back into the platform strategy process as input.",
+            "L5": "The company has a clear vision for the Platforms Stack, including which elements should be delivered in house (or subcontracted) and which outsourced and which components should be delivered on premise, in the cloud, or at the edge. The strategy is regularly reviewed and optimised in context of market developments."
+        },
+        {
+            "Dimension": "Technology",
+            
+            "Capability": "Project on-boarding",
+            "L1": "No project on-boarding process is defined",
+            "L2": "Process on how on-board a project are defined.",
+            "L3": "Support from the platform operations team depend on if the project did engage them at the defined point in time and performed a capability gap analysis against the project requirements.",
+            "L4": "Platform capability gap analysis are consolidated across the project portfolio and ged back into the platform strategy process as input.",
+            "L5": "The platform demands of new projects are effectively and efficiently compared to exiting platform capabilites, and a gap analysis undertaken. Documented and well understood processes exist to support the project team to identify how to plug capability shortfalls and undertake the necessary procurement, or development work."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Risk & Compliance Management",
+            "Capability": "Establish and Manage IIoT Security Risk Management Strategy",
+            "L2": "Security requirement defined, following the CIA model (confidentiality, integrity, availability) (IISF chapter 3.2)\r\n\r\nThere is a documented IIoT security risk management strategy providing an approach for risk prioritization, including consideration of impact.",
+            "L3": "Security assurance processes in place, which provides evidence that an IIoT system complies with defined security requirements. (IISF chapter 3.1)\r\n\r\nOrganizational risk criteria (objective criteria that the organization uses for evaluating, categorizing, and prioritizing operational risks based on impact, tolerance for risk, and risk response approaches) are defined and available.",
+            "L4": "Organization-specific risk measures are documented and is used in risk management activities",
+            "L5": "Security enhanced to trustworthiness of IIoT systems, with trustworthiness = security + safety + reliability + resilience + privacy. (IISF chapter 3).\r\n\r\nThe risk management strategy is periodically updated to reflect the current threat environment."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Manage IIoT security risks",
+            "L1": "Comply with regulatory requirements and standards (IISF chapter 4.3) ",
+            "L2": "A risk register (a structured repository of identified risks) is used to support risk management activities.\r\n\r\nIdentified risks are mitigated, accepted, tolerated, or transferred",
+            "L3": "Risk assessments are performed to identify risks in accordance with the risk management strategy.\r\n\r\nThe risk management program defines and operates risk management policies and procedures that implement the risk management strategy.",
+            "L4": "Identified risks are monitored in accordance with the risk management strategy.\r\n\r\nIdentified risks are analyzed to prioritize response activities in accordance with the risk management strategy.",
+            "L5": "Risk analysis is informed by network and security (IT and OT) architecture"
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Asset Management",
+            "Capability": "Manage Asset Inventory",
+            "L2": "There is an inventory of OT and IT assets that are important to the delivery of the function",
+            "L3": "Inventory attributes include information to support the IIoT security strategy (e.g., location, asset owner, applicable security requirements, service dependencies, service level agreements, and conformance of assets to relevant industry standards).\r\n\r\nThe asset inventory is current (as defined by the organization).",
+            "L4": "Inventoried assets are prioritized based on their importance to the delivery of the function",
+            "L5": "There is an inventory of information assets that are important to the delivery of the function (e.g., SCADA set points, customer information, financial data)"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Manage Asset Configuration",
+            "L2": "Configuration baselines are established for inventoried assets where it is desirable to ensure that multiple assets are configured similarly.\r\n\r\nConfiguration baselines are used to configure assets at deployment.",
+            "L3": "The design of configuration baselines includes cybersecurity objectives",
+            "L4": "Configuration of assets are monitored for consistency with baselines throughout the assets’ life cycle",
+            "L5": "Configuration baselines are reviewed and updated at an organizationally-defined frequency"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Manage Changes to Assets",
+            "L1": "Changes to inventoried assets are logged",
+            "L2": "Changes to inventoried assets are evaluated before being implemented",
+            "L3": "Changes to assets are tested prior to being deployed, whenever possible",
+            "L4": "Changes to assets are tested for security impact prior to being deployed.\r\n\r\nChange logs include information about modifications that impact the cybersecurity requirements of assets (availability, integrity, confidentiality).",
+            "L5": "Change management practices address the full life cycle of assets (i.e., acquisition, deployment, operation, retirement)"
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Identity and Access Management",
+            "Capability": "Establish and Maintain Identities",
+            "L1": "Identities are provisioned for personnel and other entities (e.g., services, devices) who require access to assets (note that this does not preclude shared identities)",
+            "L2": "Credentials are issued for personnel and other entities that require access to assets (e.g., passwords, smart cards, certificates, keys)",
+            "L3": "Requirements for credentials are informed by the organization’s risk criteria (e.g., multifactor credentials for higher risk access)",
+            "L4": "Identity repositories are periodically reviewed and updated to ensure validity (i.e., to ensure that the identities still need access).\r\n\r\nCredentials are periodically reviewed to ensure that they are associated with the correct person or entity.",
+            "L5": "Identities are deprovisioned when no longer required"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Control Access",
+            "L1": "Access to assets is granted by the asset owner based on risk to the function",
+            "L2": "Access requirements, including those for remote access, are determined (access requirements are associated with assets and provide guidance for which types of entities are allowed to access the asset, the limits of allowed access, and authentication parameters)",
+            "L3": "Access is granted to identities based on requirements.\r\n\r\nAccess is revoked when no longer required.\r\n\r\nAccess requests are reviewed and approved by the asset owner.",
+            "L4": "Root privileges, administrative access, emergency access, and shared accounts receive additional scrutiny and monitoring.\r\n\r\nAnomalous access attempts are monitored as indicators of security events.",
+            "L5": "Access requirements incorporate least privilege and separation of duties principles.\r\n\r\nAccess privileges are reviewed and updated to ensure validity, at an organizationally defined frequency."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Threat and Vulnerability Management",
+            "Capability": "Identify and Respond to Threats",
+            "L1": "Information sources to support threat management activities are identified (e.g., US-CERT, various critical infrastructure sector ISACs, ICS-CERT, industry associations, vendors, federal briefings)",
+            "L2": "Security threat information is gathered and interpreted for the function.\r\n\r\nThreats that are considered important to the function are addressed (e.g., implement mitigating controls, monitor threat status).",
+            "L3": "Threat model is defined to holistically define all security risks to the IIoT system. (IISF chapter 3.1).\r\n\r\nIdentified threats are analyzed and prioritized and addressed according to priority. Threat information is added to the risk register.",
+            "L4": "Threat information sources that address all components of the threat model are prioritized and monitored",
+            "L5": "The threat profile for the function is validated at an organization-defined frequency.\r\n\r\nAnalysis and prioritization of threats are informed by the function’s (or organization’s) risk criteria."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Reduce Security Vulnerabilities",
+            "L1": "Information sources to support cybersecurity vulnerability discovery are identified (e.g., US-CERT, various critical infrastructure sector ISACs, ICS-CERT, industry associations, vendors, federal briefings, internal assessments)",
+            "L2": "Security vulnerability information is gathered and interpreted for the function.\r\n\r\nCybersecurity vulnerabilities that are considered important to the function are addressed (e.g., implement mitigating controls, apply cybersecurity patches).",
+            "L3": "Part of IIoT system testing is the deliberate activity to hack into the system to check if the security measures work. (IISF chapter 3.1).\r\n\r\nIdentified cybersecurity vulnerabilities are analyzed and prioritized (e.g., NIST Common Vulnerability Scoring System could be used for patches; internal guidelines could be used to prioritize other types of vulnerabilities).\r\n\r\nCybersecurity vulnerabilities are addressed according to the assigned priority.\r\n\r\nOperational impact to the function is evaluated prior to deploying cybersecurity patches\r\n\r\nCybersecurity vulnerability information is added to the risk register.",
+            "L4": "Security vulnerability information sources that address all assets important to the function are monitored.\r\n\r\nSecurity vulnerability assessments are performed (e.g., architectural reviews, penetration testing, cybersecurity exercises, vulnerability identification tools).\r\n\r\nRisk monitoring activities validate the responses to cybersecurity vulnerabilities (e.g., deployment of patches or other activities).",
+            "L5": "Security vulnerability assessments are informed by the function’s (or organization’s) risk criteria.\r\n\r\nSecurity vulnerability assessments are performed by parties that are independent of the operations of the function."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Situational Awareness",
+            "Capability": "Perform Logging",
+            "L1": "Logging is occurring for assets important to the function where possible",
+            "L2": "Logging requirements have been defined for all assets important to the function (e.g., scope of activity and coverage of assets, cybersecurity requirements [confidentiality, integrity, availability])",
+            "L3": "Log data are being aggregated within the function",
+            "L5": "Logging requirements are based on the risk to the function.\r\n\r\nLog data support other business and security processes (e.g., incident response, asset management)."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Perform Monitoring",
+            "L2": "Security monitoring activities are performed (e.g., periodic reviews of log data)",
+            "L3": "Operational environments are monitored for anomalous behavior that may indicate a cybersecurity event.\r\n\r\nMonitoring and analysis requirements have been defined for the function and address timely review of event data.\r\n\r\nAlarms and alerts are configured to aid in the identification of security events.\r\n\r\nMonitoring activities are aligned with the function’s threat profile.\r\n\r\nMonitoring requirements are based on the risk to the function.\r\n\r\nAlarms and alerts are configured according to indicators of anomalous activity.",
+            "L4": "Indicators of anomalous activity have been defined and are monitored across the operational environment.\r\n\r\nContinuous monitoring is performed across the operational environment to identify anomalous activity.",
+            "L5": "Monitoring is integrated with other business and security processes (e.g., incident response, asset management).\r\n\r\nRisk register (RM-2j) content is used to identify indicators of anomalous activity."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Establish and Maintain a Common Operating Picture (COP)",
+            "L2": "Methods of communicating the current state of cybersecurity for the function are established and maintained",
+            "L3": "Monitoring data are aggregated to provide an understanding of the operational state of the function (i.e., a common operating picture; a COP may or may not include visualization or be presented graphically).\r\n\r\nInformation from across the organization is available to enhance the common operating picture.",
+            "L5": "Monitoring data are aggregated to provide near-real-time understanding of the cybersecurity state for the function to enhance the common operating picture.\r\n\r\nInformation from outside the organization is collected to enhance the common operating picture."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Security Information Sharing",
+            "Capability": "Share Security Information",
+            "L1": "Information is collected from and provided to selected individuals and/or organizations.\r\n\r\nTechnical sources are identified that can be consulted on cybersecurity issues.",
+            "L2": "Information-sharing stakeholders are identified based on their relevance to the continued operation of the function (e.g., connected organizations, vendors, sector organizations, regulators, internal entities).\r\n\r\nInformation is collected from and provided to identified information-sharing stakeholders.",
+            "L3": "Responsibility for cybersecurity reporting obligations are assigned to personnel (e.g., internal reporting, ICS-CERT, law enforcement).\r\n\r\nInformation-sharing practices address both standard operations and emergency operations.\r\n\r\nInformation-sharing requirements have been defined for the function and address timely dissemination of cybersecurity information.\r\n\r\nProcedures are in place to analyze and de-conflict received information.",
+            "L4": "A network of internal and external trust relationships (formal and/or informal) has been established to vet and validate information about cyber events"
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Event and Incident Response",
+            "Capability": "Detect Security Events",
+            "L1": "There is a point of contact (person or role) to whom security events could be reported",
+            "L2": "Detected security events are reported.\r\n\r\nCriteria are established for security event detection (e.g., what constitutes an event, where to look for events).",
+            "L3": "Security events are logged and tracked.\r\n\r\nThere is a repository where security events are logged based on the established criteria.",
+            "L4": "Event information is correlated to support incident analysis by identifying patterns, trends, and other common features",
+            "L5": "Security event detection activities are adjusted based on information from the organization’s risk register and threat profile to help detect known threats and monitor for identified risks"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Escalate Events and Declare Incidents",
+            "L1": "Criteria for security event escalation are established, including security incident declaration criteria",
+            "L2": "Security events are analyzed to support escalation and the declaration of security incidents",
+            "L3": "Escalated security events and incidents are logged and tracked.\r\n\r\nThere is a repository where escalated security events and security incidents are logged and tracked to closure.",
+            "L4": "Escalated security events and declared security incidents inform the common operating picture for the function.\r\n\r\nEscalated security events and declared incidents are correlated to support the discovery of patterns, trends, and other common features.",
+            "L5": "Criteria for security event escalation, including security incident criteria, are established based on the potential impact to the function.\r\n\r\nCriteria for security event escalation, including security incident declaration criteria, are updated at an organization-defined frequency.\r\n\r\nCriteria for security event escalation, including security incident declaration criteria, are adjusted according to information from the organization’s risk register and threat profile"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Respond to Incidents",
+            "L1": "Security event and incident response personnel are identified and roles are assigned.\r\n\r\nResponses to escalated security events and incidents are implemented to limit impact to the function and restore normal operations.",
+            "L2": "Reporting of escalated security events and incidents is performed (e.g., internal reporting, ICS-CERT, relevant ISACs).\r\n\r\nTraining is conducted for security event and incident response teams.",
+            "L3": "Security event and incident response is performed according to defined procedures that address all phases of the incident life cycle (e.g., triage, handling, communication, coordination, and closure).\r\n\r\nSecurity event and incident response plans address IT and OT assets important to the delivery of the function.\r\n\r\nSecurity event and incident response plans are aligned with the function’s risk criteria and threat profile.\r\n\r\nRestored assets are configured appropriately and inventory information is updated following execution of response plans.",
+            "L4": "Security event and incident root-cause analysis and lessons-learned activities are performed, and corrective actions are taken.\r\n\r\nSecurity event and incident responses are coordinated with law enforcement and other government entities as appropriate, including support for evidence collection and preservation.",
+            "L5": "Security event and incident responses are coordinated with law enforcement and other government entities as appropriate, including support for evidence collection and preservation.\r\n\r\nSecurity event and incident response plans are reviewed and updated at an organization-defined frequency."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Plan for Continuity",
+            "L1": "The activities necessary to sustain minimum operations of the function are identified.\r\n\r\nThe sequence of activities necessary to return the function to normal operation is identified.\r\n\r\nContinuity plans are developed to sustain and restore operation of the function.",
+            "L2": "Continuity plans are evaluated and exercised",
+            "L3": "Business impact analyses inform the development of continuity plans.\r\n\r\nRecovery time objectives (RTO) and recovery point objectives (RPO) for the function are incorporated into continuity plans.\r\n\r\nRestored assets are configured appropriately and inventory information is updated following execution of continuity plans.",
+            "L4": "RTO and RPO are aligned with the function’s risk criteria",
+            "L5": "Business impact analyses are periodically reviewed and updated.\r\n\r\nThe results of continuity plan testing and/or activation are compared to recovery objectives, and plans are improved accordingly.\r\n\r\nContinuity plans are periodically reviewed and updated."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Supply Chain Management",
+            "Capability": "Identify Dependencies",
+            "L1": "Important IT and OT supplier dependencies are identified (i.e., external parties on which the delivery of the function depend, including operating partners).\r\n\r\nImportant customer dependencies are identified (i.e., external parties that are dependent on the delivery of the function including operating partners).",
+            "L2": "Supplier dependencies are identified according to established criteria.\r\n\r\nCustomer dependencies are identified according to established criteria.",
+            "L3": "Single-source and other essential dependencies are identified.\r\n\r\nDependencies are prioritized.",
+            "L4": "Dependency prioritization and identification are based on the function’s or organization's risk criteria"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Manage Dependency Risk",
+            "L2": "Significant security risks due to suppliers and other dependencies are identified and addressed.\r\n\r\nAcceptance testing of procured assets includes testing for security requirements.",
+            "L3": "Security requirements are considered when establishing relationships with suppliers and other third parties.\r\n\r\nIdentified security dependency risks are entered into the risk register.\r\n\r\nSecurity risks due to external dependencies are managed according to the organization’s risk management criteria and process.",
+            "L4": "Contracts and agreements with third parties incorporate sharing of security threat information.\r\n\r\nAgreements with suppliers require notification of security incidents related to the delivery of the product or service.\r\n\r\nInformation sources are monitored to identify and avoid supply chain threats (e.g., counterfeit parts, software, and services).",
+            "L5": "Agreements with suppliers and other external entities include security requirements.\r\n\r\nEvaluation and selection of suppliers and other external entities includes consideration of their ability to meet security requirements.\r\n\r\nSuppliers and other external entities are periodically reviewed for their ability to continually meet the security requirements."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Workforce Management",
+            "Capability": "Assign Security Responsibilities",
+            "L2": "Security responsibilities for the function are identified.\r\n\r\nSecurity responsibilities are assigned to specific people.",
+            "L3": "Security responsibilities are assigned to specific roles, including external service providers.\r\n\r\nCybersecurity responsibilities are documented (e.g., in position descriptions).\r\n\r\nAssigned cybersecurity responsibilities are managed to ensure adequacy and redundancy of coverage.",
+            "L4": "Security responsibilities are included in job performance evaluation criteria",
+            "L5": "Security responsibilities and job requirements are reviewed and updated as appropriate"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Control Workforce Life Cycle",
+            "L2": "Personnel vetting (e.g., background checks, drug tests) is performed at hire for positions that have access to the assets required for delivery of the function",
+            "L3": "Personnel termination procedures address cybersecurity.\r\n\r\nPersonnel transfer procedures address cybersecurity.\r\n\r\nA formal accountability process that includes disciplinary actions is implemented for personnel who fail to comply with established security policies and procedures.",
+            "L4": "Risk designations are assigned to all positions that have access to the assets required for delivery of the function",
+            "L5": "Personnel vetting is performed at an organization-defined frequency for positions that have access to the assets required for delivery of the function.\r\n\r\nSuccession planning is performed for personnel based on risk designation."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Develop Security Workforce",
+            "L2": "Security training is made available to personnel with assigned security responsibilities",
+            "L3": "Security knowledge, skill, and ability gaps are identified.\r\n\r\nIdentified gaps are addressed through recruiting and/or training.\r\n\r\nSecurity training is provided as a prerequisite to granting access to assets that support the delivery of the function (e.g., new personnel training, personnel transfer training).",
+            "L4": "Security workforce management objectives that support current and future operational needs are established and maintained.\r\n\r\nRecruiting and retention are aligned to support security workforce management objectives.\r\n\r\nTraining programs are aligned to support security workforce management objectives.",
+            "L5": "The effectiveness of training programs is evaluated at an organization-defined frequency and improvements are made as appropriate.\r\n\r\nTraining programs include continuing education and professional development opportunities for personnel with significant security responsibilities."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Increase Security Awareness",
+            "L2": "Security awareness activities occur",
+            "L4": "Objectives for cybersecurity awareness activities are established and maintained",
+            "L5": "Cybersecurity awareness content is based on the organization’s threat profile.\r\n\r\nCybersecurity awareness content is based on the organization’s threat profile."
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Security Program Management",
+            "Capability": "Establish Security Program Strategy",
+            "L2": "The organization has a security program strategy.\r\n\r\nThe security program strategy defines the structure and organization of the security program.",
+            "L3": "The security program strategy and priorities are documented and aligned with the organization’s strategic objectives and risk to critical infrastructure.\r\n\r\nThe security program strategy defines the organization’s approach to provide program oversight and governance for security activities.\r\n\r\nThe security program strategy is approved by senior management.",
+            "L4": "The security program strategy defines objectives for the organization’s cybersecurity activities",
+            "L5": "The security program strategy is updated to reflect business changes, changes in the operating environment, and changes in the threat profile"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Sponsor Security Program",
+            "L1": "Resources (people, tools, and funding) are provided to support the security program.\r\n\r\nSenior management provides sponsorship for the security program.",
+            "L2": "The security program is established according to the security program strategy",
+            "L3": "If the organization develops or procures software, secure software development practices are sponsored as an element of the security program.\r\n\r\nThe development and maintenance of security policies is sponsored.\r\n\r\nResponsibility for the security program is assigned to a role with requisite authority.",
+            "L4": "The performance of the security program is monitored to ensure it aligns with the security program strategy",
+            "L5": "The security program is independently reviewed (i.e., by reviewers who are not in the program) for achievement of security program objectives.\r\n\r\nThe security program monitors and/or participates in selected industry security standards or initiatives."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Establish and Maintain Security IIoT Architecture",
+            "L2": "A strategy to architecturally isolate the organization’s IT systems from OT systems is implemented",
+            "L3": "Architectural segmentation and isolation is maintained according to a documented plan",
+            "L5": "Security architecture is updated at an organization-defined frequency to keep it current"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Perform Secure Software Development",
+            "L2": "Software to be deployed on assets that are important to the delivery of the function is developed using secure software development practices",
+            "L3": "Policies require that software that is to be deployed on assets that are important to the delivery of the function be developed using secure software development practices"
+        },
+        {
+            "Dimension": "IIoT Security",
+            "Strand": "Management activities",
+            "Capability": "Risk & Compliance Management",
+            "L1": "Stakeholders for risk management activities are identified and involved",
+            "L2": "Documented practices are followed for risk management activities.\r\n\r\nAdequate resources (people, funding, and tools) are provided to support risk management activities.",
+            "L3": "Standards and/or guidelines have been identified to inform risk management activities.\r\n\r\nRisk management activities are guided by documented policies or other organizational directives.\r\n\r\nRisk management policies include compliance requirements for specified standards and/or guidelines.\r\n\r\nResponsibility and authority for the performance of risk management activities are assigned to personnel.\r\n\r\nPersonnel performing risk management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Risk management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Asset Management",
+            "L1": "Stakeholders for asset inventory, configuration, and change management activities are identified and involved",
+            "L2": "Documented practices are followed for asset inventory, configuration, and change management activities.\r\n\r\nStandards and/or guidelines have been identified to inform asset inventory, configuration, and change management activities.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support asset inventory, configuration, and change management activities.\r\n\r\nAsset inventory, configuration, and change management activities are guided by documented policies or other organizational directives.\r\n\r\nAsset inventory, configuration, and change management policies include compliance requirements for specified standards and/or guidelines.\r\n\r\nResponsibility and authority for the performance of asset inventory, configuration, and change management activities are assigned to personnel.\r\n\r\nPersonnel performing asset inventory, configuration, and change management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L5": "Asset inventory, configuration, and change management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Identity and Access Management",
+            "L2": "Documented practices are followed to establish and maintain identities and control access.\r\n\r\nStakeholders for access and identity management activities are identified and involved",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support access and identity management activities.\r\n\r\nAccess and identity management policies include compliance requirements for specified standards and/or guidelines.\r\n\r\nResponsibility and authority for the performance of access and identity management activities are assigned to personnel.\r\n\r\nPersonnel performing access and identity management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Standards and/or guidelines have been identified to inform access and identity management activities",
+            "L5": "Access and identity management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Threat and Vulnerability Management",
+            "L2": "Documented practices are followed for threat and vulnerability management activities.\r\n\r\nStakeholders for threat and vulnerability management activities are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support threat and vulnerability management activities.\r\n\r\nStandards and/or guidelines have been identified to inform threat and vulnerability management activities.\r\n\r\nResponsibility and authority for the performance of threat and vulnerability management activities are assigned to personnel.\r\n\r\nPersonnel performing threat and vulnerability management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Threat and vulnerability management activities are guided by documented policies or other organizational directives",
+            "L5": "Threat and vulnerability management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Situational Awareness",
+            "L2": "Documented practices are followed for logging, monitoring, and COP activities.\r\n\r\nStakeholders for logging, monitoring, and COP activities are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support logging, monitoring, and COP activities.\r\n\r\nStandards and/or guidelines have been identified to inform logging, monitoring, and COP activities.\r\n\r\nResponsibility and authority for the performance of logging, monitoring, and COP activities are assigned to personnel.\r\n\r\nPersonnel performing logging, monitoring, and COP activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Logging, monitoring, and COP activities are guided by documented policies or other organizational directives.\r\n\r\nLogging, monitoring, and COP policies include compliance requirements for specified standards and/or guidelines.",
+            "L5": "Logging, monitoring, and COP activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Security Information Sharing",
+            "L2": "Documented practices are followed for information-sharing activities.\r\n\r\nStakeholders for information-sharing activities are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support information-sharing activities.\r\n\r\nStandards and/or guidelines have been identified to inform information-sharing activities.\r\n\r\nInformation-sharing activities are guided by documented policies or other organizational directives.\r\n\r\nResponsibility and authority for the performance of information-sharing activities are assigned to personnel.\r\n\r\nPersonnel performing information-sharing activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L5": "Information-sharing activities are periodically reviewed to ensure conformance with policy.\r\n\r\nInformation-sharing policies address protected information and ethical use and sharing of information, including sensitive and classified information as appropriate."
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Event and Incident Response",
+            "L2": "Documented practices are followed for security event and incident response as well as continuity of operations activities.\r\n\r\nStakeholders for security event and incident response as well as continuity of operations activities are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support security event and incident response as well as continuity of operations activities.\r\n\r\nStandards and/or guidelines have been identified to inform security event and incident response as well as continuity of operations activities.\r\n\r\nResponsibility and authority for the performance of security event and incident response as well as continuity of operations activities are assigned to personnel.\r\n\r\nPersonnel performing security event and incident response as well as continuity of operations activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Security event and incident response as well as continuity of operations activities are guided by documented policies or other organizational directives",
+            "L5": "Security event and incident response as well as continuity of operations activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Supply Chain Management",
+            "L2": "Documented practices are followed for managing dependency risk.\r\n\r\nStakeholders for managing dependency risk are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support dependency risk management activities.\r\n\r\nStandards and/or guidelines have been identified to inform managing dependency risk.\r\n\r\nDependency risk management activities are guided by documented policies or other organizational directives.\r\n\r\nResponsibility and authority for the performance of dependency risk management are assigned to personnel.\r\n\r\nPersonnel performing dependency risk management have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L5": "Dependency risk management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Workforce Management",
+            "L2": "Documented practices are followed for security workforce management activities.\r\n\r\nStakeholders for security workforce management activities are identified and involved.",
+            "L3": "Adequate resources (people, funding, and tools) are provided to support cybersecurity workforce management activities.\r\n\r\nStandards and/or guidelines have been identified to inform cybersecurity workforce management activities.\r\n\r\nResponsibility and authority for the performance of security workforce management activities are assigned to personnel.\r\n\r\nPersonnel performing security workforce management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Security workforce management activities are guided by documented policies or other organizational directives",
+            "L5": "Security workforce management activities are periodically reviewed to ensure conformance with policy"
+        },
+        {
+            "Dimension": "IIoT Security",
+            
+            "Capability": "Security Program Management",
+            "L2": "Documented practices are followed for security program management activities.\r\n\r\nStakeholders for security program management activities are identified and involved.",
+            "L3": "Standards and/or guidelines have been identified to inform security program management activities.\r\n\r\nPersonnel performing security program management activities have the skills and knowledge needed to perform their assigned responsibilities.",
+            "L4": "Security program management activities are guided by documented policies or other organizational directives",
+            "L5": "Security program management activities are periodically reviewed to ensure conformance with policy"
+        }
+    ]
+}

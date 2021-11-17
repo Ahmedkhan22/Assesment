@@ -1,0 +1,1653 @@
+{
+	"info": {
+		"_postman_id": "5ddec00a-0d56-4803-8dd3-f9e0264bddab",
+		"name": "Assessment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Dimensions",
+			"item": [
+				{
+					"name": "View Dimensions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://178.18.244.82:4003/dimension/viewdimensions",
+							"protocol": "http",
+							"host": [
+								"178",
+								"18",
+								"244",
+								"82"
+							],
+							"port": "4003",
+							"path": [
+								"dimension",
+								"viewdimensions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Enabled Dimensions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/dimension/showenableddimensions",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"dimension",
+								"showenableddimensions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Bulk Dimensions",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/dimension/bulkDimensions",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"dimension",
+								"bulkDimensions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Change Dimension Name",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dimensionid\":\"\",\r\n    \"newdimensionname\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/dimension/changedimensionname",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"dimension",
+								"changedimensionname"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Dimension",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dimensionname\":\"IIoT Security\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/dimension/adddimension",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"dimension",
+								"adddimension"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Strands",
+			"item": [
+				{
+					"name": "Add Strand",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"Market context\",\r\n    \"weightage\":2,\r\n    \"dimension\":\"611a71c611b22815c421400c\",\r\n    \"text\":\"abcd\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/strand/addstrand",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"addstrand"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Disable Strand",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/strand/disablestrand",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"strand",
+								"disablestrand"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Enabled Strands",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/strand/showenablestrands",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"showenablestrands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Disabled Strands",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/strand/showdisablestrands",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"strand",
+								"showdisablestrands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Strands Show",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/strand/strandshow",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"strand",
+								"strandshow"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Bulk Strand",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/strand/bulkStrands",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"bulkStrands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Strand",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"strandid\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/strand/deletestrandbystrandid",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"deletestrandbystrandid"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Edit Strand",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"strandid\":\"\",\r\n    \"name\":\"Market context\",\r\n    \"weightage\":2,\r\n    \"dimension\":\"60ca1c434b3a9a0f40d25560\",\r\n    \"text\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/strand/editstrand",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"editstrand"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Single Strand",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"strandid\":\"60cd10b075f0e82066bf87d2\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/strand/getsinglestrand",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"strand",
+								"getsinglestrand"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Questions",
+			"item": [
+				{
+					"name": "Disable Question",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/question/disablequestion",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"question",
+								"disablequestion"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Enabled Questions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/question/showenable",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"showenable"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Question Show",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/question/questionshow",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"question",
+								"questionshow"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Qustions with dim and strand name",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Questions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/question/updatequestions",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"updatequestions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Bulk Questions",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/question/bulkQuesions",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"bulkQuesions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get data through assessmentid",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessmentid\":\"60eef658ff47ab2090fd8abb\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/getdata",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"getdata"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View questions by Dimensionid",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":[\"611a71c611b22815c421400c\",\r\n            \"611a71e511b22815c421400e\"]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/viewquestionsbydimensionid",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"viewquestionsbydimensionid"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Questions by dimensions ids",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"id\":[\r\n            \"611a71c611b22815c421400c\",\r\n            \"611a71e511b22815c421400e\"]\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/viewquestionsbydimensionids",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"viewquestionsbydimensionids"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Question by questionid",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"questionid\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/getsinglequestion",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"getsinglequestion"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Capabilities",
+			"item": [
+				{
+					"name": "Add Capability",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"\",\r\n    \"remarks\":\"\",\r\n    \"strandid\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4000/capability/addcapability",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"capability",
+								"addcapability"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Disable Capability",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3=4000/capability/disablecapability",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3=4000",
+							"path": [
+								"capability",
+								"disablecapability"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Show Enabled Capability",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/capability/showenable",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"capability",
+								"showenable"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Capability Show",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/capability/capabilityshow",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"capability",
+								"capabilityshow"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Bulk Capabilities",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/capability/bulkCapabilitiess",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"capability",
+								"bulkCapabilitiess"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Capability",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"capabilityid\":\"611a5767443cb63730a6b79d\",\r\n    \"name\":\"New Capability Updated\",\r\n    \"remarks\":[\r\n            {\r\n                \"_id\": \"611a5767443cb63730a6b79e\",\r\n                \"level\": 1,\r\n                \"text\": \"remarks for level1 u\"\r\n            },\r\n            {\r\n                \"_id\": \"611a5767443cb63730a6b79f\",\r\n                \"level\": 2,\r\n                \"text\": \"remarks for level2 u\"\r\n            },\r\n            {\r\n                \"_id\": \"611a5767443cb63730a6b7a0\",\r\n                \"level\": 3,\r\n                \"text\": \"remarks for level3 u\"\r\n            },\r\n            {\r\n                \"_id\": \"611a5767443cb63730a6b7a1\",\r\n                \"level\": 4,\r\n                \"text\": \"remarks for level4 u\"\r\n            },\r\n            {\r\n                \"_id\": \"611a5767443cb63730a6b7a2\",\r\n                \"level\": 5,\r\n                \"text\": \"remarks for level5 u\"\r\n            }\r\n        ],\r\n    \"strandid\":\"60cd10b075f0e82066bf87d2\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/capability/updatecapability",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"capability",
+								"updatecapability"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Capability",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"capabilityid\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/capability/deletecapability",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"capability",
+								"deletecapability"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Single Capability",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"capabilityid\":\"60cd1119bfb2f7207f6daaee\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/capability/getsinglecapability",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"capability",
+								"getsinglecapability"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Calculation",
+			"item": [
+				{
+					"name": "calculating answer * weight",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"data\": [\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dadfe\",\r\n            \"answer\": 3\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae0a\",\r\n            \"answer\": 2\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae06\",\r\n            \"answer\": 4\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae00\",\r\n            \"answer\": 4\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae02\",\r\n            \"answer\": 1\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae04\",\r\n            \"answer\": 4\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae0e\",\r\n            \"answer\": 4\r\n        },\r\n        {\r\n            \"question\":\"60cd113bbfb2f7207f6dae10\",\r\n            \"answer\":2\r\n        }\r\n    ],\r\n    \"assessid\": \"611254b520fde100e4dfeeee\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/calculation",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"calculation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Answers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/answer/getanswers",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"answer",
+								"getanswers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Save Answers",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"data\": [\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dadfe\",\r\n            \"answer\": 3\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae06\",\r\n            \"answer\": 1\r\n        },\r\n        {\r\n            \"question\": \"60cd113bbfb2f7207f6dae00\",\r\n            \"answer\": 2\r\n        }\r\n    ]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/question/saveAnswers",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"question",
+								"saveAnswers"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "View Users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/user/viewusers",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"viewusers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"bkhan\",\r\n    \"email\":\"bkhan@gmail.com\",\r\n    \"password\":\"bkhan123\",\r\n    \"address\":\"a323 hdjs town\",\r\n    \"city\":\"karachi\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/createuser",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"createuser"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete User",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":\"6107c346b1d49c290caa1eee\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/deleteuser",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"deleteuser"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Otp Codes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/user/viewotpcodes",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"viewotpcodes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Verify User",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"phnumber\":33243,\r\n    \"otpnumber\":210078\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/verify",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"verify"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login User",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":\"610578abaf3c09043e21e0e1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View my profile",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/user/viewmyprofile",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"viewmyprofile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Change Password",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/user/changepassword",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"changepassword"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete otp",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":\"60e33e5ecebda122508760b8\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/deleteallotps",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"deleteallotps"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "login with email and password",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\":\"ahmed@gmail.com\",\r\n    \"password\":\"ahmed123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/loginwithnameemailpassword",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"loginwithnameemailpassword"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "User logout",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\":\"os@gmail.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/user/userlogout",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"userlogout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Users",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/user/deleteusers",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"user",
+								"deleteusers"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Assessments",
+			"item": [
+				{
+					"name": "View Assessments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://519144972070.ngrok.io/assessment/viewassessments",
+							"protocol": "https",
+							"host": [
+								"519144972070",
+								"ngrok",
+								"io"
+							],
+							"path": [
+								"assessment",
+								"viewassessments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Assessment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"companyname\":\"None\",\r\n    \"industry\":\"electricity\",\r\n    \"dimensions\":[\"\",\"\",\"\"\r\n    ],\r\n    \"region\":\"\",\r\n    \"revenue\":\"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:4003/assessment/createassessment",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"createassessment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Give answer of Question",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dimensionid\":\"60cd107acf7f00203aba04fb\",\r\n    \"assessid\":\"611254b520fde100e4dfeeee\",\r\n    \"question\":\"60cd113bbfb2f7207f6dae00\",\r\n    \"answer\":4\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://178.18.244.82:4003/assessment/giveanswerofquestion",
+							"protocol": "http",
+							"host": [
+								"178",
+								"18",
+								"244",
+								"82"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"giveanswerofquestion"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Assessments",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4003/assessment/deleteassessments",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"deleteassessments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Dimension wise Companies Data",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:4003/assessment/viewdimensionwisecompaniesdata",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"viewdimensionwisecompaniesdata"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View assessment by userid",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userid\":\"611a7b9be7cb1d46cb73a900\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/assessment/viewassessmentbyuserid",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"viewassessmentbyuserid"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Remarks",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"61237fb1d30c717d0284629f\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:4003/getremarks",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"getremarks"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:4003/as",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"as"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete answers",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:4003/deleteanswer",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"deleteanswer"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get remarks data",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"61237fb1d30c717d0284629f\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://178.18.244.82:4003/getremarksdata",
+							"protocol": "http",
+							"host": [
+								"178",
+								"18",
+								"244",
+								"82"
+							],
+							"port": "4003",
+							"path": [
+								"getremarksdata"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Assessment by asssessmentid",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessmentid\":\"61210bc5e17e510ad0c2fda1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:4003/assessment/viewassessmentbyassessmentid",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"viewassessmentbyassessmentid"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Give assessid and generate graph",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"6127934f1ad8e639b49a3998\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://519144972070.ngrok.io/assessment/giveassessidandgenerategraph",
+							"protocol": "https",
+							"host": [
+								"519144972070",
+								"ngrok",
+								"io"
+							],
+							"path": [
+								"assessment",
+								"giveassessidandgenerategraph"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ahmed graph route",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"type\":\"bar\",\r\n    \"label\":[\"1\",\"2\",\"3\",\"4\",\"5\"],\r\n    \"data\":[\"1\",\"2\",\"3\",\"4\",\"5\"],\r\n    \"chart\":\"Dimesnion Name\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:300/ge",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "300",
+							"path": [
+								"ge"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Generate Pdf",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"6127934f1ad8e639b49a3998\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://519144972070.ngrok.io/assessment/generatepdf",
+							"protocol": "https",
+							"host": [
+								"519144972070",
+								"ngrok",
+								"io"
+							],
+							"path": [
+								"assessment",
+								"generatepdf"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete single assessment",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"61210a1ae17e510ad0c2fd84\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4003/assessment/deletesingleassessment",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4003",
+							"path": [
+								"assessment",
+								"deletesingleassessment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Email Pdf to User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"6127934f1ad8e639b49a3998\",\r\n    \"useremail\":\"hamxa1331@gmail.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://519144972070.ngrok.io/assessment/emailpdf",
+							"protocol": "https",
+							"host": [
+								"519144972070",
+								"ngrok",
+								"io"
+							],
+							"path": [
+								"assessment",
+								"emailpdf"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View assess by userid and assessid",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"assessid\":\"6127934f1ad8e639b49a3998\",\r\n    \"userid\":\"611a7b9be7cb1d46cb73a900\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://519144972070.ngrok.io/assessment/viewassessmentbyuseridandassessid",
+							"protocol": "https",
+							"host": [
+								"519144972070",
+								"ngrok",
+								"io"
+							],
+							"path": [
+								"assessment",
+								"viewassessmentbyuseridandassessid"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
